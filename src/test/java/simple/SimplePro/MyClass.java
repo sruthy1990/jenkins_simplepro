@@ -10,7 +10,6 @@ public class MyClass {
 	{
 		System.out.println("Hai,myself Sruthy");
 		System.out.println("jenkins must be invoked automatically");
-		System.out.println("Pleasee");
 	}
 
 }
